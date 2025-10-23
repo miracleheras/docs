@@ -39,6 +39,7 @@ The following issues has been solved in 6.10.5:
 - `Fix rule addition for security group creation. <https://github.com/OpenNebula/one/issues/7206>` __.
 - `Fix Security Group Role Description for IPs <https://github.com/OpenNebula/one/issues/7186>` __.
 - `Fix history ETIME after resize, disk-resize and pci-(de)attach for VMs in undeployed state <https://github.com/OpenNebula/one/issues/7249>` __.
+- `Fix  cluster assignment when creating Virtual Network <https://github.com/OpenNebula/one/issues/7063>` __.
 
 Changes in Configuration Files
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
