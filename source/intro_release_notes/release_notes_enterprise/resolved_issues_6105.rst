@@ -41,7 +41,7 @@ The following issues has been solved in 6.10.5:
 - `Fix history ETIME after resize, disk-resize and pci-(de)attach for VMs in undeployed state <https://github.com/OpenNebula/one/issues/7249>` __.
 - `Fix  cluster assignment when creating Virtual Network <https://github.com/OpenNebula/one/issues/7063>` __.
 - `Fix UI issue on VM Instantiation when Memory or CPU modification is set to 'range' within a VM template <https://github.com/OpenNebula/one/issues/6872>` __.
-
+- `Fix VM configuration for Single VM Backup configuration <https://github.com/OpenNebula/one/issues/7164>` __.
 Changes in Configuration Files
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
