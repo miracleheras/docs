@@ -42,6 +42,7 @@ The following issues has been solved in 6.10.5:
 - `Fix  cluster assignment when creating Virtual Network <https://github.com/OpenNebula/one/issues/7063>` __.
 - `Fix UI issue on VM Instantiation when Memory or CPU modification is set to 'range' within a VM template <https://github.com/OpenNebula/one/issues/6872>` __.
 - `Fix VM configuration for Single VM Backup configuration <https://github.com/OpenNebula/one/issues/7164>` __.
+- `Fix UI overlay issue on Fireedge VNC on 1280*760 resolution <https://github.com/OpenNebula/one/issues/7175>` __.
 
 Changes in Configuration Files
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
