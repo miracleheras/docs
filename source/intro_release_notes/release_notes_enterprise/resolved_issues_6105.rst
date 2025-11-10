@@ -44,6 +44,7 @@ The following issues has been solved in 6.10.5:
 - `Fix VM configuration for Single VM Backup configuration <https://github.com/OpenNebula/one/issues/7164>`__.
 - `Fix UI overlay issue on Fireedge VNC on 1280*760 resolution <https://github.com/OpenNebula/one/issues/7175>`__.
 - `Fix 2FA reset in FireEdge after UI changes are made <https://github.com/OpenNebula/one/issues/7105>`__.
+- `Fix LDAP authentication by removeing password encoding <https://github.com/OpenNebula/one/issues/7344>` __.
 
 Changes in Configuration Files
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
